@@ -1,1 +1,1 @@
-# calculator
+# Java - course
